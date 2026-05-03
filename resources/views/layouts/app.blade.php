@@ -12,6 +12,9 @@
             <a href="/" class="text-xl font-bold">TokoKita</a>
             <div class="flex gap-4">
                 <a href="/" class="hover:text-blue-600">Beranda</a>
+                <a href="/produk" class="hover:text-blue-600">Produk</a>
+                <a href="{{ route('ui.preview') }}" class="hover:text-blue-600">UI Preview</a>
+                <x-ui.cart-badge />
             </div>
         </div>
     </nav>
