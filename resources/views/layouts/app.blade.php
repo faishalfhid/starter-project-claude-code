@@ -9,7 +9,7 @@
 <body class="bg-gray-50 text-gray-900 min-h-screen">
     <nav class="bg-white border-b border-gray-200 px-6 py-4">
         <div class="max-w-6xl mx-auto flex justify-between items-center">
-            <a href="/" class="text-xl font-bold">TokoKita</a>
+            <a href="/" class="text-xl font-bold hover:text-blue-600 transition-colors">TokoKita</a>
             <div class="flex gap-4">
                 <a href="/" class="hover:text-blue-600">Beranda</a>
                 <a href="/produk" class="hover:text-blue-600">Produk</a>
